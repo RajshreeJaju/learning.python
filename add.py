@@ -1,3 +1,4 @@
-a= int(input('enter a number'))
-b= int(input('enter another number'))
-print('the sum is:',a+b)
+a= float((input('Please enter a number for addition')))
+b= float((input('Enter another number for addition'))) 
+print('The sum of two number a and b is:',a+b)  
+
